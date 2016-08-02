@@ -1,7 +1,7 @@
 {
   "name": "ProfFan@Git",
   "tagline": "ProfFan in GitHub",
-  "body": "# Welcome!\r\n\r\nHere you can find the documentation of some projects I made on GitHub.\r\n\r\n# Projects\r\n### [USTCORi Physics Experiment Simulation System Assistant](https://github.com/ProfFan/PhysicsExprSimulationTest)\r\nAn assistant for the USTCORi Experiment Simulation System. Use at your own risk.\r\n\r\n### [PhabriTeX](/phabritex)\r\n\r\nPhabritex is my rough effort for adding LaTeX support into the Phabricator system.\r\n\r\n### [Bootstrap-Han](/bootstrap-han)\r\n\r\nBootstrap 4 + Han.css for beautiful Chinese web design.\r\n",
+  "body": "# Welcome!\r\n\r\nHere you can find the documentation of some projects I made on GitHub.\r\n\r\nAnd welcome to my blog https://blog.amayume.net\r\n\r\n# Projects\r\n### [USTCORi Physics Experiment Simulation System Assistant](https://github.com/ProfFan/PhysicsExprSimulationTest)\r\nAn assistant for the USTCORi Experiment Simulation System. Use at your own risk.\r\n\r\n### [PhabriTeX](/phabritex)\r\n\r\nPhabritex is my rough effort for adding LaTeX support into the Phabricator system.\r\n\r\n### [Bootstrap-Han](/bootstrap-han)\r\n\r\nBootstrap 4 + Han.css for beautiful Chinese web design.\r\n",
   "google": "UA-42690126-4",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
